@@ -59,8 +59,6 @@ npm install
 npm run dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser
-
 ## Available Scripts
 
 - `npm run dev` - Start the development server
@@ -152,5 +150,3 @@ All components use CSS Modules for scoped styling. Modify the files in the `styl
 - [ ] Dark mode support
 
 ## License
-
-MIT
