@@ -75,11 +75,6 @@ Fetch product launches for a specific region.
 **Query Parameters:**
 - `region` (required): One of `US`, `EU`, `CN`, `JP`
 
-**Example:**
-```bash
-curl "http://localhost:3000/api/launches?region=US"
-```
-
 **Response:**
 ```json
 {
